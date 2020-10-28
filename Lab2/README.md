@@ -113,3 +113,4 @@ Pretražite točnu frazu
 - [Google Search Education](https://www.google.com/intl/en-us/insidesearch/searcheducation/)
 - [20 Google Search Tips to Use Google More Efficiently](https://www.lifehack.org/articles/technology/20-tips-use-google-search-efficiently.html)
 - [Google Search Operators: The Complete List (42 Advanced Operators)](https://ahrefs.com/blog/google-advanced-search-operators/)
+- [How to Find Movie in Google Search](https://www.youtube.com/watch?v=UKmknyasDWk)
