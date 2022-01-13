@@ -25,7 +25,7 @@ webmii.com
 Pri tome se možete konzultirati *Flowchartom* koji je dan na slici ispod.
 
 <p align="center">
-    <img src="https://inteltechniques.com/data/Email.png" width="600px" height="auto"/>
+    <img src="https://github.com/toperkov/PF-MiNS-2020-21/blob/main/Lab3/Email.png" width="600px" height="auto"/>
     <br><br>
 </p>
 
