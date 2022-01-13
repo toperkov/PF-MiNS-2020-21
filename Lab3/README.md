@@ -2,7 +2,7 @@
 
 
 <p align="center">
-    <img src="https://inteltechniques.com/data/Real%20Name.png" width="600px" height="auto"/>
+    <img src="https://github.com/toperkov/PF-MiNS-2020-21/blob/main/Lab3/RealName.png" width="600px" height="auto"/>
     <br><br>
 </p>
 
