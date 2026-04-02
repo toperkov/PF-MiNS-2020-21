@@ -1,6 +1,6 @@
 # Lab 2 - Napredno pretraživanje
 
-U ovoj vježbi studenti će se upoznati sa osnovnim i naprednim vještinama pretraživanja na Google-u. Pri tome će se upotrebljavati tražilica iz prethodne laboratorijske vježbe: [Startpage](https://www.startpage.com/)
+U ovoj vježbi studenti će se upoznati sa osnovnim i naprednim vještinama pretraživanja na Google-u. Pri tome će se upotrebljavati tražilica iz prethodne laboratorijske vježbe: [Startpage](https://www.startpage.com/). **Smisao vježbe:** kad naučite suziti rezultate operatorima, brže dolazite do pouzdanijih izvora — to štedi vrijeme na seminarskom radu i na kasnijim temama (npr. OSINT), jer ne gubite sate na listanje nebitnih pogodaka. Strukturirani zadatak s predajom je u odjeljku **Strukturirani zadatak** nakon pregleda operatora u nastavku.
 
 ## Osnovno pretraživanje 
 
@@ -100,6 +100,22 @@ Uklonite nebitne rezultate
 
 ### 3.2 Dvostruki navodnici
 Pretražite točnu frazu
+
+## Strukturirani zadatak
+
+**Alat:** svi upiti kroz [Startpage](https://www.startpage.com/) (ili drugu tražilicu koju odobri nastavnik, uz napomenu da ponašanje operatora može malo varirati).
+
+**Predaja (jedan dokument po studentu ili po timu — kako objavi nastavnik):** za **svaki** podzadatak navedite **(a)** točan upit koji ste koristili i **(b)** jednu rečenicu: što vam je operator dao u odnosu na „običan“ upit bez operatora (manje šuma, brži pronalazak PDF-a, itd.).
+
+**Pravila:** samo **javno dostupni** sadržaj i institucijske stranice; bez pretraživanja osjetljivih podataka o pojedincima i bez zaobilazenja pristupa tamo gdje to nije dopušteno.
+
+1. **Ograničenje domene:** pronađite stranicu na **hrvatskoj** državnoj domeni (`gov.hr`) koja se odnosi na temu po vašem izboru (npr. zakon, službeno obavijest). Upotrijebite `site:`.
+2. **Točna fraza:** istu ili srodnu temu potražite tako da tražilica traži **točnu frazu** od dva ili više riječi (dvostruki navodnici). Usporedite kratak dojam rezultata s upitom bez navodnika.
+3. **PDF ili drugi format:** pronađite **jedan** javno dostupan dokument (npr. `filetype:pdf`) vezan uz akademsku ili pravnu temu; u predaji navedite naslov dokumenta i domenu, ne samo upit.
+4. **Isključivanje šuma:** za jednu opću temu dodajte **minus** da isključite tip rezultata koji vam smeta (npr. agregator, forum ili društvena mreža — poštujući da je cilj učenje operatora, ne napad na stranicu).
+5. **Naslov stranice:** pronađite stranicu čiji **naslov** (title) sadrži barem jednu ključnu riječ po vašem izboru; upotrijebite `intitle:` ili `allintitle:` i objasnite zašto ste odabrali koji.
+6. **URL:** pronađite stranicu gdje je dio upita vidljiv u **putanji URL-a**; upotrijebite `inurl:` ili `allinurl:`.
+7. **Mini-izvještaj:** za **jedan** od zadataka 1–6 usporedite **prvih 10** rezultata: jednom bez naprednih operatora (samo ključne riječi) i jednom s operatorima — u jednoj ili dvije rečenice napišite je li udio očito relevantnih rezultata bio veći.
 
 ## Caveats
 - svaka riječ u upitu je bitna
