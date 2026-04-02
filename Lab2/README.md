@@ -2,6 +2,16 @@
 
 U ovoj vježbi studenti će se upoznati sa osnovnim i naprednim vještinama pretraživanja na Google-u. Pri tome će se upotrebljavati tražilica iz prethodne laboratorijske vježbe: [Startpage](https://www.startpage.com/). **Smisao vježbe:** kad naučite suziti rezultate operatorima, brže dolazite do pouzdanijih izvora — to štedi vrijeme na seminarskom radu i na kasnijim temama (npr. OSINT), jer ne gubite sate na listanje nebitnih pogodaka. Strukturirani zadatak s predajom je u odjeljku **Strukturirani zadatak** nakon pregleda operatora u nastavku.
 
+## Tematski okvir: nacionalna sigurnost, energija i aktualne krize
+
+Veliki **geopolitički šokovi** — npr. vojne operacije, eskalacija u regijama ključnim za **opskrbu naftom i plinom**, ili šire **tržišne panike** — često se odmah vide u **cijenama energenata**, u **volatilnosti burze** i u **društvenom diskursu** (strah od poskupljenja, opskrbnih poremećaja, širenje neprovjerenih interpretacija). Za **nacionalnu i ekonomsku sigurnost** država i za stručnu procjenu u sigurnosnim studijima bitno je znati **razlikovati**: službene i institucijske izvore, analitičke izvještaje, te nasumične ili senzacionalističke naslove.
+
+**Zašto su operatori tražilice relevantni ovdje:** isti događaj u medijima može biti prekriven tisućama varijanti naslova; `site:`, `filetype:pdf`, točne fraze u navodnicima i `intitle:` pomažu brzo doći do npr. **hrvatskih ili europskih institucija**, **centralnih banaka**, **energetskih regulatora** ili **međunarodnih organizacija** koje objavljuju podatke o energetici i tržištu — umjesto da satima filtrirate agregatore i društvene mreže.
+
+**Ilustracija (aktualnost mijenja nastavnik):** u razdoblju povećanih napetosti ili sukoba na **Bliskom istoku** (uključivo scenarije u kojima se spominju **SAD i Iran**), javnost često odmah povezuje takve vijesti s **skokom cijena nafte**, **goriva** i **električne energije** te s rizikom od **društvene zabrinutosti** ili **panike potrošača**. Na vježbi **ne radite političku agitaciju** nego **vježbate pretraživanje**: usporedite što u istom tjednu ili mjesecu kažu **službeni** kanali i **stručni** PDF-ovi u odnosu na općenite naslove; u predaji kratko navedite **koji izvor** podržava koju tvrdnju o tržišnim ili sigurnosnim učincima.
+
+**Etika i točnost:** javno dostupno nije automatski istinito; cilj je **metoda** (kako pronaći i usporediti izvore), ne širenje neprovjerenih tvrdnji. Ako tema na satu bude osjetljiva, držite se **citiranih URL-ova** i **datumâ** pristupa.
+
 ## Osnovno pretraživanje 
 
 Gotovo svaki rezultat koji Google vrati se sastoji od tri dijela, a to su naslov, url i sadržaj.
@@ -109,6 +119,8 @@ Pretražite točnu frazu
 
 **Pravila:** samo **javno dostupni** sadržaj i institucijske stranice; bez pretraživanja osjetljivih podataka o pojedincima i bez zaobilazenja pristupa tamo gdje to nije dopušteno.
 
+**Tematska nit (preporuka nastavnika):** podzadatke 1–7 možete provesti na **istoj tematskoj liniji** kao u odjeljku *Tematski okvir: nacionalna sigurnost, energija i aktualne krize* — npr. kombinacija ključnih riječi o **energetici**, **cijenama**, **tržištu nafte ili plina**, **strategiji sigurnosti opskrbe** ili **institucijskim reakcijama** na krizu koju na satu odabere nastavnik (uključivo aktualne međunarodne eskalacije i njihov **društveno-gospodarski odjek**). Tehnički zahtjevi ostaju isti; mijenjaju se samo **upiti** i **komentar u predaji** (usporedite barem jedan **institucijski** i jedan **općeniti** rezultat).
+
 1. **Ograničenje domene:** pronađite stranicu na **hrvatskoj** državnoj domeni (`gov.hr`) koja se odnosi na temu po vašem izboru (npr. zakon, službeno obavijest). Upotrijebite `site:`.
 2. **Točna fraza:** istu ili srodnu temu potražite tako da tražilica traži **točnu frazu** od dva ili više riječi (dvostruki navodnici). Usporedite kratak dojam rezultata s upitom bez navodnika.
 3. **PDF ili drugi format:** pronađite **jedan** javno dostupan dokument (npr. `filetype:pdf`) vezan uz akademsku ili pravnu temu; u predaji navedite naslov dokumenta i domenu, ne samo upit.
@@ -122,6 +134,7 @@ Pretražite točnu frazu
 - važan je redoslijed riječi
 - riječi ne razlikuju velika i mala slova
 - nikad ne vjerujte jednom izvoru
+- kod tema poput energije i sigurnosti **naslovi** često dramatiziraju; tražite **podatke, datume i potpis institucije** prije zaključka
 
 ## Reference
 
